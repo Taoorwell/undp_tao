@@ -1,9 +1,19 @@
 task2/greater-london-latest.osm.pbf
 
+task2/nightlight.qgz
+
 task2/nightlight_street_network.cpg
 task2/nightlight_street_network.dbf
 task2/nightlight_street_network.prj
 task2/nightlight_street_network.shp
 task2/nightlight_street_network.shx
+
+task2/street_network.cpg
+task2/street_network.dbf
+task2/street_network.prj
+task2/street_network.shp
+task2/street_network.shx
+
+
 
 task3/model.pt
